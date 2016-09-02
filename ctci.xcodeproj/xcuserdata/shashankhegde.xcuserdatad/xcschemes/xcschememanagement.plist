@@ -4,15 +4,65 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>arrayStr.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ctci-medium.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 		<key>ctci.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>recursionAndDP.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>sortingAndSearching.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>treesGraphs.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>C6619B331D79CD0B00AA62D7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6619B411D79CD4400AA62D7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6619B4F1D79CDF300AA62D7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6619B5E1D79CE6100AA62D7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6619B691D79CF9B00AA62D7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6619B851D79D7D300AA62D7</key>
 		<dict>
 			<key>primary</key>
 			<true/>

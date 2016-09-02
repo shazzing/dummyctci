@@ -9,5 +9,5 @@ xcuserdata/*
 #DS_store
 .DS_Store
 
-project.pbxproj/**
-**/xcschememanagement.plist/**
+project.pbxproj
+xcschememanagement.plist
