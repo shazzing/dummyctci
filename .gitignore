@@ -1,9 +1,13 @@
 #xcode proj files
-*/*.xcodeproj/*
-*/*.pbxproj
+*.xcodeproj
+*.pbxproj
 *.xcworkspace/*
 xcuserdata/*
-*/*.plist/*
+*.plist
+*.pbxuser
 
 #DS_store
-.DS_Store/*
+.DS_Store
+
+project.pbxproj/**
+**/xcschememanagement.plist/**
